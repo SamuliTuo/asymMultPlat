@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EncodableAsset" id="{37a23aec-8c4d-42dc-a2d9-70e2c8f9568d}">
+		<property name="assetPath">
+			<value>beatbox impacts/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d5b3dc72-2536-4cea-8195-5dc55f0a5a0c}</destination>
+		</relationship>
+	</object>
+</objects>

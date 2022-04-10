@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5556622546324508241
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -5771486124694616974, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: m_CollisionDetection
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2598555546411569925, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2598555546411569925, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 2598555546411569925, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2598555546411569925, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2598555546411569925, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2598555546411569925, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2598555546411569925, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2598555546411569925, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2598555546411569925, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2598555546411569925, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2598555546411569925, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2598555546411569927, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df4b873fd8a223548b97a80ecc6afb0a, type: 2}
+    - target: {fileID: 2598555546411570169, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: m_Name
+      value: projectile_cannon
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242095896947667734, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: type
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242095896947667734, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: accuracy
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242095896947667734, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: lifeTime
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242095896947667734, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: damageType
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242095896947667734, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: reloadTime
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242095896947667734, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: useGravity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242095896947667734, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: recoilAmount
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242095896947667734, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: screenShakeMax
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242095896947667734, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: projectileSpeed
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242095896947667734, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: projectileDamage
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242095896947667734, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: screenShakeAmount
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242095896947667734, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: mechaMeterFillAmount
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242095896947667734, guid: 3df09d092cf764c46a929488cc43f07c,
+        type: 3}
+      propertyPath: projectilePenetration
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3df09d092cf764c46a929488cc43f07c, type: 3}

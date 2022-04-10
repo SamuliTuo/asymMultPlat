@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{5a6c8576-baaf-485a-9d92-a9f1983682c4}">
+		<property name="assetPath">
+			<value>boings/boing_mid_rising_aud_06.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.51074829931972787</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d5b3dc72-2536-4cea-8195-5dc55f0a5a0c}</destination>
+		</relationship>
+	</object>
+</objects>
